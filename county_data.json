@@ -1,0 +1,3032 @@
+[
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56001"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56003"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56005"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56007"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56009"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56011"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56013"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56015"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56017"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56019"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56021"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56025"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56027"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56029"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56031"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56033"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56043"
+    },
+    {
+        "_afct_id": "subregions-56",
+        "branch": "14",
+        "geoid": "56045"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20001"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20003"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20005"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20011"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20013"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20019"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20021"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20023"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20027"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20029"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20031"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20037"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "4",
+        "geoid": "20039"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20041"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20043"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20045"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20049"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20051"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20059"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20061"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20063"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20065"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20073"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20085"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20087"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20089"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20091"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20099"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20103"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20107"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20109"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20111"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20117"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20121"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20123"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20125"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20127"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20131"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20133"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "4",
+        "geoid": "20137"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20139"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20141"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20143"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "4",
+        "geoid": "20147"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20153"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20157"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20161"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20163"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20167"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20169"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20177"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20179"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20181"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "4",
+        "geoid": "20183"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20193"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20195"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "5",
+        "geoid": "20199"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20205"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20207"
+    },
+    {
+        "_afct_id": "subregions-20",
+        "branch": "12",
+        "geoid": "20209"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31001"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31003"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31005"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "14",
+        "geoid": "31007"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31009"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31011"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "14",
+        "geoid": "31013"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31015"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31017"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31019"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31021"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31023"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "2",
+        "geoid": "31025"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31027"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31029"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31031"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31033"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31035"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31037"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31039"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31041"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31043"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "14",
+        "geoid": "31045"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31047"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31049"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31051"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "2",
+        "geoid": "31053"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "2",
+        "geoid": "31055"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31057"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31059"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31061"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31063"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31065"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31067"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31069"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31071"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31073"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31075"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31077"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31079"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31081"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31083"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31085"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31087"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31089"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31091"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31093"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31095"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31097"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31099"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31101"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31103"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "14",
+        "geoid": "31105"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31107"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31109"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31111"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31113"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31115"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31117"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31119"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31121"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "14",
+        "geoid": "31123"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31125"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31127"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31129"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31131"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31133"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31135"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31137"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31139"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31141"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31143"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "4",
+        "geoid": "31145"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31147"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31149"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31151"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "2",
+        "geoid": "31153"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "2",
+        "geoid": "31155"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "14",
+        "geoid": "31157"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "3",
+        "geoid": "31159"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31161"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31163"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "14",
+        "geoid": "31165"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31167"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31169"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31171"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31173"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31175"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "2",
+        "geoid": "31177"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "8",
+        "geoid": "31179"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31181"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31183"
+    },
+    {
+        "_afct_id": "subregions-31",
+        "branch": "5",
+        "geoid": "31185"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30003"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30011"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30017"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30019"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30021"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30025"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30033"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30055"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30065"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30069"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30071"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30075"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30079"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30083"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30085"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30087"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30091"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30103"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30105"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30109"
+    },
+    {
+        "_afct_id": "subregions-30",
+        "branch": "14",
+        "geoid": "30111"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46003"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46005"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46007"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46009"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46011"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46013"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46015"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46017"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46019"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46021"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46023"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46025"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46027"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46029"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46031"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46033"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46035"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46037"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46039"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46041"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46043"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46045"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46047"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46049"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46051"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46053"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46055"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46057"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46059"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46061"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46063"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46065"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46067"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46069"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46071"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46073"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46075"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46077"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46079"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46081"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46083"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46085"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46087"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46089"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46091"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46093"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46095"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46097"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46099"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46101"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46102"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46103"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46105"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46107"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46109"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46111"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46115"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46117"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46119"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46121"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46123"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46125"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46127"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46129"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "9",
+        "geoid": "46135"
+    },
+    {
+        "_afct_id": "subregions-46",
+        "branch": "14",
+        "geoid": "46137"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55001"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55009"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55011"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55015"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55017"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55019"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55021"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55023"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55025"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55027"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55029"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55033"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55035"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55039"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55043"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55045"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55047"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55049"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55053"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55055"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55057"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55059"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55061"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55063"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55065"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55067"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55069"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55071"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55073"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55077"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55078"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55079"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55081"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55083"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55087"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55089"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55091"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55093"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55097"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55101"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55103"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55105"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55109"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55111"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55115"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55117"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55119"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55121"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "10",
+        "geoid": "55123"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55127"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55131"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55133"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55135"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55137"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55139"
+    },
+    {
+        "_afct_id": "subregions-55",
+        "branch": "11",
+        "geoid": "55141"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27001"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27003"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27005"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27007"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27009"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27011"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27013"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27015"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27017"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27019"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27021"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27023"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27025"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27027"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27029"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27031"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27033"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27035"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27037"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27039"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27041"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27043"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27045"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27047"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27049"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27051"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27053"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27055"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27057"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27059"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27061"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27063"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27065"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27067"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27069"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27071"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27073"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27075"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27077"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27079"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27081"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27083"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27085"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27087"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27089"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27091"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27093"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27095"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27097"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27099"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27101"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27103"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27105"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27107"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27109"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27111"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27113"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27115"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27117"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27119"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27121"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27123"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27125"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27127"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27129"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27131"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27133"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27135"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27137"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27139"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27141"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27143"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27145"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27147"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27149"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27151"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27153"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27155"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27157"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27159"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27161"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27163"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27165"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "13",
+        "geoid": "27167"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27169"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "10",
+        "geoid": "27171"
+    },
+    {
+        "_afct_id": "subregions-27",
+        "branch": "9",
+        "geoid": "27173"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17015"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17067"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17071"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17073"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17085"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17095"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17131"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17161"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17177"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17187"
+    },
+    {
+        "_afct_id": "subregions-17",
+        "branch": "6",
+        "geoid": "17195"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29001"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29003"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29005"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29013"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29015"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29021"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29025"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29033"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29037"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29041"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29045"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29047"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29049"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29053"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29061"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29063"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29075"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29079"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29081"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29083"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29087"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29089"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29095"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29101"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29103"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29107"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29111"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29115"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29117"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29121"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29129"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29147"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29159"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29165"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29171"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29175"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29177"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29195"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29197"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29199"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "7",
+        "geoid": "29211"
+    },
+    {
+        "_afct_id": "subregions-29",
+        "branch": "12",
+        "geoid": "29227"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19001"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19003"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "10",
+        "geoid": "19005"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19007"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19009"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19011"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19013"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19015"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19017"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19019"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19021"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19023"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19025"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19027"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19029"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19031"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19033"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19035"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19037"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19039"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19041"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19043"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19045"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19047"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19049"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19051"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19053"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19055"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19057"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19059"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19061"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19063"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19065"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19067"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19069"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19071"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19073"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19075"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19077"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19079"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19081"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19083"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19085"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19087"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "10",
+        "geoid": "19089"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19091"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19093"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19095"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19097"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19099"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19101"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19103"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19105"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19107"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19109"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19111"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19113"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19115"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19117"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "9",
+        "geoid": "19119"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19121"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19123"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19125"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19127"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19129"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "10",
+        "geoid": "19131"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19133"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19135"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19137"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19139"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19141"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19143"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19145"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19147"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19149"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19151"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19153"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19155"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19157"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19159"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19161"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19163"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19165"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19167"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19169"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19171"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19173"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "2",
+        "geoid": "19175"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19177"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19179"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19181"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "6",
+        "geoid": "19183"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19185"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "7",
+        "geoid": "19187"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "10",
+        "geoid": "19189"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "10",
+        "geoid": "19191"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19193"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "10",
+        "geoid": "19195"
+    },
+    {
+        "_afct_id": "subregions-19",
+        "branch": "8",
+        "geoid": "19197"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38001"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38003"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38005"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38007"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38009"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38011"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38013"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38015"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38017"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38019"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38021"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38023"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38025"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38027"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38029"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38031"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38033"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38035"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38037"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38039"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38041"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38043"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38045"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38047"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38049"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38051"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38053"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38055"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38057"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38059"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38061"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38063"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38065"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38067"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38069"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38071"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38073"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38075"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38077"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38079"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38081"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38083"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38085"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38087"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38089"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38091"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38093"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38095"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38097"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38099"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38101"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "13",
+        "geoid": "38103"
+    },
+    {
+        "_afct_id": "subregions-38",
+        "branch": "14",
+        "geoid": "38105"
+    }
+]
